@@ -2,7 +2,7 @@
 
 # Introducción:
 
-## Las funciones son elementos esenciales en la programación, ya que permiten modular el código, reutilizar bloques de instrucciones y mejorar la organización del programa. En este conjunto de ejercicios, como docentes de programación en Python, podrán encontrar 6 actividades prácticas para que sus estudiantes fortalezcan sus habilidades en la creación y utilización de funciones.
+### Las funciones son elementos esenciales en la programación, ya que permiten modular el código, reutilizar bloques de instrucciones y mejorar la organización del programa. En este conjunto de ejercicios, como docentes de programación en Python, podrán encontrar 6 actividades prácticas para que sus estudiantes fortalezcan sus habilidades en la creación y utilización de funciones.
 
 # Objetivos:
 
